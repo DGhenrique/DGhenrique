@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="[https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg](https://cdn.jsdelivr.net/npm/aws-svg-icons@3.0.0-2021-07-30/+esm)](https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg)" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
