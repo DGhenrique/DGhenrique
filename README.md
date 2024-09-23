@@ -41,10 +41,10 @@
 ###
 
 <div align="center">
-  <a href="https://br.linkedin.com/in/diogo-henrique-pereira-a48884267" target="_blank">
+  <a target="_blank" href="https://br.linkedin.com/in/diogo-henrique-pereira-a48884267">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/21552146/diogo" target="_blank">
+  <a target="_blank" href="https://stackoverflow.com/users/21552146/diogo">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
