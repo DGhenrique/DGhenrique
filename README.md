@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 Welcome!</h1>
 
-<p align="left">My name is Diogo, and I'm a technology enthusiast and I'm always studying something about the area, either at university or doing personal projects. My goal is to grow continuously, striving to improve by 1% every day.🎯</p>
+<p align="left">🎯 My name is Diogo, and I'm a technology enthusiast and I'm always studying something about the area, either at university or doing personal projects. My goal is to grow continuously, striving to improve by 1% every day.</p>
 
 <h2 align="left">About me</h2>
 
