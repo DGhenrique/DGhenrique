@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">☁ I'm currently learning: Cloud Computing in a Bootcamp.<br>
+<p align="left">☁ I'm currently learning Cloud Computing in a Bootcamp.<br>
 <p align="left">📚 I'm studying systems analysis and development<br>
 
 <h2 align="left">Stacks</h2>
