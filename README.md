@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">☁ I'm currently learning Cloud Computing in a Bootcamp.<br>
+<p align="left">👨‍💻 I am currently employed at a Healthcare Startup as a fullstack developer.<br>
 <p align="left">📚 I'm studying Systems Analysis and Development.<br>
 
 <h2 align="left">Stacks</h2>
@@ -20,7 +20,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />       
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </div>
+
 
 <h2 align="left">Follow me</h2>
 
