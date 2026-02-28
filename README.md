@@ -1,11 +1,10 @@
 <h1 align="left">Hey 👋 Welcome!</h1>
 
-<p align="left">🎯 My name is Diogo, and I'm a technology enthusiast and I'm always studying something about the area, either at university or doing personal projects. My goal is to grow continuously, striving to improve by 1% every day.</p>
+<p align="left">🎯 My name is Diogo, and I'm a technology enthusiast and I'm always studying something about software quality. My goal is to grow continuously, striving to improve by 1% every day.</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">👨‍💻 I am currently employed at a Healthcare Startup as a fullstack developer.<br>
-<p align="left">📚 I'm studying Systems Analysis and Development.<br>
+<p align="left">👨‍💻 I am currently employed at a Healthcare Startup as a QA Analyst.<br>
 
 <h2 align="left">Stacks</h2>
 
@@ -16,11 +15,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo" />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="cypress logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
 </div>
 
 
