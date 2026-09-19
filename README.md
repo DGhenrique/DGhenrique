@@ -2,10 +2,6 @@
 
 <p align="left">🎯 My name is Diogo, and I'm a technology enthusiast and I'm always studying something about software quality. My goal is to grow continuously, striving to improve by 1% every day.</p>
 
-<h2 align="left">About me</h2>
-
-<p align="left">👨‍💻 I am currently employed at a Healthcare Startup as a QA Analyst.<br>
-
 <h2 align="left">Stacks</h2>
 
 <div align="left">
